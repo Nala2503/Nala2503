@@ -1,4 +1,7 @@
-## Hi there 👋
+# Nathalie Lagerström
+## Pågående kurser på Mittuniversitetet 
+- Introduktion till programmering i JavaScript
+- Webbutveckling 1
 
 <!--
 **Nala2503/Nala2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
